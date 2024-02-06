@@ -19,7 +19,7 @@ This tool calculates and visualizes the distribution of preemptive pods needed a
 1. **Clone the repository:**
 
    ```
-   git clone https://your-repository-url.git
+   git clone https://github.com/gabeduke/preemptive-pod-calculator.git
    cd your-repository-directory
    ```
 
